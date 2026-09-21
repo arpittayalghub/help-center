@@ -9,7 +9,7 @@ const { execSync } = require('child_process');
 
 program
   .version('1.0.0')
-  .description('Help Center Framework CLI');
+  .description('Help Center framework CLI');
 
 program
   .command('create <project-name>')
