@@ -9,5 +9,5 @@ reviews:
         incomplete docstrings, unhandled edge cases such as empty inputs or
         division by zero, and opportunities to use Python idioms such as list
         comprehensions.
-tone_instructions: "Be concise. Each comment must include a specific suggested
+tone_instructions: "Be concise. Each comment must include a specific and suggested
   fix."
